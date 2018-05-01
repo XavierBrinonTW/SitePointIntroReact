@@ -4,7 +4,8 @@
   "description": "Intro to React from Site point",
   "main": "index.js",
   "scripts": {
-    "test": "tape index.test.js"
+    "test": "tape index.test.js",
+    "create-react-app": "create-react-app"
   },
   "repository": {
     "type": "git",
