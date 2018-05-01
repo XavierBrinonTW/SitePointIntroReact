@@ -1,0 +1,23 @@
+{
+  "name": "sitepointintroreact",
+  "version": "1.0.0",
+  "description": "Intro to React from Site point",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XavierBrinonTW/SitePointIntroReact.git"
+  },
+  "keywords": [
+    "React",
+    "Intro"
+  ],
+  "author": "Xavier Brinon xavier.brinon@tradeweb.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XavierBrinonTW/SitePointIntroReact/issues"
+  },
+  "homepage": "https://github.com/XavierBrinonTW/SitePointIntroReact#readme"
+}
